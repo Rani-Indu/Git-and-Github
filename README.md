@@ -1,4 +1,4 @@
 # Git-and-Github
 This is my first Git Repository on web development course.
 <br>
-Author - Indu Rani
+Author - Indu Rani (Apna College)
